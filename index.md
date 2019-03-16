@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-## My favourite technologies:
+##My favourite technologies:
 * Angular
 * React 
 * VUE 
